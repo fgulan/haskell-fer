@@ -1,0 +1,19 @@
+-- Haskell Playground 1.0
+applyOnLast (+) [1,2,3] [4,5,6]
+
+lastTwoPlus100 [1,2,3] [4,5,6]
+
+
+:t addThree 100
+applyManyTimes 5 (+2) 0
+applyManyTimes 3 finishSentence "hm"
+
+listifyList "abc"
+
+cutoff 100 [20,202,34,117]
+
+sumEvenSquares [1, 2, 3, 4]
+
+withinInterval 1 5 [0, 1,2,3,4,5,6,7,8]
+
+sndColumn' [[1,2,3],[4,5,6]]

@@ -1,0 +1,5 @@
+-- Haskell Playground 1.0
+show l7
+show l8
+
+isPalindrome "anavolimilovana"
